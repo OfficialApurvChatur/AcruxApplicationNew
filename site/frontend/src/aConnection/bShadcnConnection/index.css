@@ -462,7 +462,7 @@ html, body, #root {
 } */
 
 /* Acrux */
-/* @layer base {
+@layer base {
   :root {
     --background: 186 14% 80%;
     --foreground: 268 35% 38%;
@@ -554,7 +554,7 @@ html, body, #root {
     --sidebar-border: 268 20% 30%;
     --sidebar-ring: 186 14% 80%;
   }
-} */
+}
 
 /* Anser */
 /* @layer base {
@@ -1222,7 +1222,7 @@ html, body, #root {
 } */
 
 /* Boilerplate */
-@layer base {
+/* @layer base {
   :root {
     --background: 312 43% 82%; 
     --foreground: 180 100% 3%; 
@@ -1314,7 +1314,7 @@ html, body, #root {
     --sidebar-border: 180 30% 14%;
     --sidebar-ring: 312 43% 82%;
   }
-}
+} */
 
 /* Chattrix */
 /* @layer base {

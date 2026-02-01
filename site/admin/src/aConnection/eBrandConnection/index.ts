@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://acrux-frontend-v02.netlify.app",
 
   uTagName: "Feeling Ambitions, Igniting Growth",
+
+  vMainApplication: "Acrux Application",
+  vFrontendApplication: "Acrux Application (Frontend)",
+  vAdminApplication: "Acrux Application (Admin)",
+  vBackendApplication: "Acrux Application (Backend)",
 }
 
 export default brandConnection;
